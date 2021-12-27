@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GigaCarsDemo/static/css/main.a9f53c42.chunk.css",
+    "main.js": "/GigaCarsDemo/static/js/main.3c045846.chunk.js",
+    "main.js.map": "/GigaCarsDemo/static/js/main.3c045846.chunk.js.map",
+    "runtime-main.js": "/GigaCarsDemo/static/js/runtime-main.c3417116.js",
+    "runtime-main.js.map": "/GigaCarsDemo/static/js/runtime-main.c3417116.js.map",
+    "static/css/2.8095601a.chunk.css": "/GigaCarsDemo/static/css/2.8095601a.chunk.css",
+    "static/js/2.e0bc5c40.chunk.js": "/GigaCarsDemo/static/js/2.e0bc5c40.chunk.js",
+    "static/js/2.e0bc5c40.chunk.js.map": "/GigaCarsDemo/static/js/2.e0bc5c40.chunk.js.map",
+    "static/js/3.ccb4baf3.chunk.js": "/GigaCarsDemo/static/js/3.ccb4baf3.chunk.js",
+    "static/js/3.ccb4baf3.chunk.js.map": "/GigaCarsDemo/static/js/3.ccb4baf3.chunk.js.map",
+    "index.html": "/GigaCarsDemo/index.html",
+    "static/css/2.8095601a.chunk.css.map": "/GigaCarsDemo/static/css/2.8095601a.chunk.css.map",
+    "static/css/main.a9f53c42.chunk.css.map": "/GigaCarsDemo/static/css/main.a9f53c42.chunk.css.map",
+    "static/js/2.e0bc5c40.chunk.js.LICENSE.txt": "/GigaCarsDemo/static/js/2.e0bc5c40.chunk.js.LICENSE.txt",
+    "static/media/logo.4a035159.svg": "/GigaCarsDemo/static/media/logo.4a035159.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3417116.js",
+    "static/css/2.8095601a.chunk.css",
+    "static/js/2.e0bc5c40.chunk.js",
+    "static/css/main.a9f53c42.chunk.css",
+    "static/js/main.3c045846.chunk.js"
+  ]
+}
